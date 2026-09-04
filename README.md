@@ -39,7 +39,7 @@ jobs:
       - name: Generate activity SVG
         uses: MoDevIO/github-wakatime-activity@main
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GH_TOKEN }}
           wakatime-token: ${{ secrets.WAKATIME_TOKEN }}
           leetcode-username: ${{ secrets.LEETCODE_USERNAME }}
 ```
@@ -53,5 +53,4 @@ This tool additionally needs your Wakatime API-Key and Leetcode username:
 
 WAKATIME_TOKEN
 LEETCODE_USERNAME
-
-You do not need to create GITHUB_TOKEN. GitHub automatically provides it to Actions.
+GH_TOKEN
