@@ -41,6 +41,7 @@ function getActivityData(token: string): Promise<ActivityDay[]> {
         date: summary.range.date,
         github: null,
         wakatime: summary.grand_total.total_seconds / 3600,
+        leetcode: null,
       });
     });
     return activityDays;

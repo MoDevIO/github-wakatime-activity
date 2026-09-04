@@ -53,6 +53,7 @@ async function getActivityData(token: string): Promise<ActivityDay[]> {
           date: day.date,
           github: day.contributionCount,
           wakatime: null,
+          leetcode: null,
         });
       });
     });

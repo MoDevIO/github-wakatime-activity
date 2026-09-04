@@ -1420,7 +1420,7 @@
         y="30"
         width="12"
         height="12"
-        fill="rgb(0, 153, 50)"
+        fill="rgb(0, 153, 30)"
         rx="2"
       />
 <rect
@@ -1428,7 +1428,7 @@
         y="45"
         width="12"
         height="12"
-        fill="rgb(0, 102, 4)"
+        fill="rgb(0, 102, 2)"
         rx="2"
       />
 <rect
@@ -1444,7 +1444,7 @@
         y="75"
         width="12"
         height="12"
-        fill="rgb(0, 77, 3)"
+        fill="rgb(0, 77, 2)"
         rx="2"
       />
 <rect
@@ -1452,7 +1452,7 @@
         y="90"
         width="12"
         height="12"
-        fill="rgb(0, 77, 10)"
+        fill="rgb(0, 77, 6)"
         rx="2"
       />
 <rect
@@ -1460,7 +1460,7 @@
         y="0"
         width="12"
         height="12"
-        fill="rgb(0, 51, 13)"
+        fill="rgb(0, 51, 8)"
         rx="2"
       />
 <rect
@@ -1468,7 +1468,7 @@
         y="15"
         width="12"
         height="12"
-        fill="rgb(0, 102, 38)"
+        fill="rgb(0, 102, 23)"
         rx="2"
       />
 <rect
@@ -1484,7 +1484,7 @@
         y="45"
         width="12"
         height="12"
-        fill="rgb(0, 38, 12)"
+        fill="rgb(0, 38, 7)"
         rx="2"
       />
 <rect
@@ -1492,7 +1492,7 @@
         y="60"
         width="12"
         height="12"
-        fill="rgb(0, 204, 3)"
+        fill="rgb(0, 204, 2)"
         rx="2"
       />
 <rect
@@ -1508,7 +1508,7 @@
         y="90"
         width="12"
         height="12"
-        fill="rgb(0, 38, 14)"
+        fill="rgb(0, 38, 9)"
         rx="2"
       />
 <rect
@@ -1548,7 +1548,7 @@
         y="60"
         width="12"
         height="12"
-        fill="rgb(0, 115, 42)"
+        fill="rgb(0, 115, 25)"
         rx="2"
       />
 <rect
@@ -1556,7 +1556,7 @@
         y="75"
         width="12"
         height="12"
-        fill="rgb(0, 89, 23)"
+        fill="rgb(0, 89, 14)"
         rx="2"
       />
 <rect
@@ -1564,7 +1564,7 @@
         y="90"
         width="12"
         height="12"
-        fill="rgb(0, 64, 139)"
+        fill="rgb(0, 64, 83)"
         rx="2"
       />
 <rect
@@ -1572,7 +1572,7 @@
         y="0"
         width="12"
         height="12"
-        fill="rgb(0, 64, 19)"
+        fill="rgb(0, 64, 12)"
         rx="2"
       />
 <rect
@@ -1674,113 +1674,113 @@
 <rect
         x="435"
         y="90"
+        width="12"
+        height="12"
+        fill="rgb(0, 26, 6)"
+        rx="2"
+      />
+<rect
+        x="450"
+        y="0"
+        width="12"
+        height="12"
+        fill="rgb(0, 0, 0)"
+        rx="2"
+      />
+<rect
+        x="450"
+        y="15"
+        width="12"
+        height="12"
+        fill="rgb(0, 64, 2)"
+        rx="2"
+      />
+<rect
+        x="450"
+        y="30"
+        width="12"
+        height="12"
+        fill="rgb(0, 0, 0)"
+        rx="2"
+      />
+<rect
+        x="450"
+        y="45"
+        width="12"
+        height="12"
+        fill="rgb(0, 38, 0)"
+        rx="2"
+      />
+<rect
+        x="450"
+        y="60"
+        width="12"
+        height="12"
+        fill="rgb(0, 0, 0)"
+        rx="2"
+      />
+<rect
+        x="450"
+        y="75"
+        width="12"
+        height="12"
+        fill="rgb(0, 51, 0)"
+        rx="2"
+      />
+<rect
+        x="450"
+        y="90"
+        width="12"
+        height="12"
+        fill="rgb(0, 0, 0)"
+        rx="2"
+      />
+<rect
+        x="465"
+        y="0"
+        width="12"
+        height="12"
+        fill="rgb(0, 0, 0)"
+        rx="2"
+      />
+<rect
+        x="465"
+        y="15"
+        width="12"
+        height="12"
+        fill="rgb(0, 26, 0)"
+        rx="2"
+      />
+<rect
+        x="465"
+        y="30"
+        width="12"
+        height="12"
+        fill="rgb(0, 0, 0)"
+        rx="2"
+      />
+<rect
+        x="465"
+        y="45"
+        width="12"
+        height="12"
+        fill="rgb(0, 0, 0)"
+        rx="2"
+      />
+<rect
+        x="465"
+        y="60"
+        width="12"
+        height="12"
+        fill="rgb(0, 51, 9)"
+        rx="2"
+      />
+<rect
+        x="465"
+        y="75"
         width="12"
         height="12"
         fill="rgb(0, 26, 11)"
-        rx="2"
-      />
-<rect
-        x="450"
-        y="0"
-        width="12"
-        height="12"
-        fill="rgb(0, 0, 0)"
-        rx="2"
-      />
-<rect
-        x="450"
-        y="15"
-        width="12"
-        height="12"
-        fill="rgb(0, 64, 4)"
-        rx="2"
-      />
-<rect
-        x="450"
-        y="30"
-        width="12"
-        height="12"
-        fill="rgb(0, 0, 0)"
-        rx="2"
-      />
-<rect
-        x="450"
-        y="45"
-        width="12"
-        height="12"
-        fill="rgb(0, 38, 0)"
-        rx="2"
-      />
-<rect
-        x="450"
-        y="60"
-        width="12"
-        height="12"
-        fill="rgb(0, 0, 0)"
-        rx="2"
-      />
-<rect
-        x="450"
-        y="75"
-        width="12"
-        height="12"
-        fill="rgb(0, 51, 0)"
-        rx="2"
-      />
-<rect
-        x="450"
-        y="90"
-        width="12"
-        height="12"
-        fill="rgb(0, 0, 0)"
-        rx="2"
-      />
-<rect
-        x="465"
-        y="0"
-        width="12"
-        height="12"
-        fill="rgb(0, 0, 0)"
-        rx="2"
-      />
-<rect
-        x="465"
-        y="15"
-        width="12"
-        height="12"
-        fill="rgb(0, 26, 0)"
-        rx="2"
-      />
-<rect
-        x="465"
-        y="30"
-        width="12"
-        height="12"
-        fill="rgb(0, 0, 0)"
-        rx="2"
-      />
-<rect
-        x="465"
-        y="45"
-        width="12"
-        height="12"
-        fill="rgb(0, 0, 0)"
-        rx="2"
-      />
-<rect
-        x="465"
-        y="60"
-        width="12"
-        height="12"
-        fill="rgb(0, 51, 16)"
-        rx="2"
-      />
-<rect
-        x="465"
-        y="75"
-        width="12"
-        height="12"
-        fill="rgb(0, 26, 19)"
         rx="2"
       />
 <rect
@@ -1892,7 +1892,7 @@
         y="75"
         width="12"
         height="12"
-        fill="rgb(0, 230, 3)"
+        fill="rgb(0, 230, 2)"
         rx="2"
       />
 <rect
@@ -1932,7 +1932,7 @@
         y="45"
         width="12"
         height="12"
-        fill="rgb(0, 128, 232)"
+        fill="rgb(0, 128, 139)"
         rx="2"
       />
 <rect
@@ -1956,7 +1956,7 @@
         y="90"
         width="12"
         height="12"
-        fill="rgb(0, 26, 20)"
+        fill="rgb(0, 26, 12)"
         rx="2"
       />
 <rect
@@ -1964,7 +1964,7 @@
         y="0"
         width="12"
         height="12"
-        fill="rgb(0, 38, 9)"
+        fill="rgb(0, 38, 5)"
         rx="2"
       />
 <rect
@@ -1972,7 +1972,7 @@
         y="15"
         width="12"
         height="12"
-        fill="rgb(0, 26, 35)"
+        fill="rgb(0, 26, 21)"
         rx="2"
       />
 <rect
@@ -1988,7 +1988,7 @@
         y="45"
         width="12"
         height="12"
-        fill="rgb(0, 13, 33)"
+        fill="rgb(0, 13, 20)"
         rx="2"
       />
 <rect
@@ -2004,7 +2004,7 @@
         y="75"
         width="12"
         height="12"
-        fill="rgb(0, 0, 16)"
+        fill="rgb(0, 0, 10)"
         rx="2"
       />
 <rect
@@ -2012,7 +2012,7 @@
         y="90"
         width="12"
         height="12"
-        fill="rgb(0, 0, 39)"
+        fill="rgb(0, 0, 23)"
         rx="2"
       />
 <rect
@@ -2060,7 +2060,7 @@
         y="75"
         width="12"
         height="12"
-        fill="rgb(0, 0, 17)"
+        fill="rgb(0, 0, 10)"
         rx="2"
       />
 <rect
@@ -2116,7 +2116,7 @@
         y="75"
         width="12"
         height="12"
-        fill="rgb(0, 0, 13)"
+        fill="rgb(0, 0, 8)"
         rx="2"
       />
 <rect
@@ -2212,7 +2212,7 @@
         y="45"
         width="12"
         height="12"
-        fill="rgb(0, 0, 16)"
+        fill="rgb(0, 0, 10)"
         rx="2"
       />
 <rect
@@ -2228,7 +2228,7 @@
         y="75"
         width="12"
         height="12"
-        fill="rgb(0, 0, 2)"
+        fill="rgb(0, 0, 1)"
         rx="2"
       />
 <rect
@@ -2252,7 +2252,7 @@
         y="15"
         width="12"
         height="12"
-        fill="rgb(0, 0, 91)"
+        fill="rgb(0, 0, 55)"
         rx="2"
       />
 <rect
@@ -2500,7 +2500,7 @@
         y="60"
         width="12"
         height="12"
-        fill="rgb(0, 26, 160)"
+        fill="rgb(0, 26, 96)"
         rx="2"
       />
 <rect
@@ -2508,7 +2508,7 @@
         y="75"
         width="12"
         height="12"
-        fill="rgb(0, 115, 255)"
+        fill="rgb(0, 115, 191)"
         rx="2"
       />
 <rect
@@ -2516,7 +2516,7 @@
         y="90"
         width="12"
         height="12"
-        fill="rgb(0, 64, 255)"
+        fill="rgb(0, 64, 154)"
         rx="2"
       />
 <rect
@@ -2524,7 +2524,7 @@
         y="0"
         width="12"
         height="12"
-        fill="rgb(0, 255, 255)"
+        fill="rgb(0, 255, 201)"
         rx="2"
       />
 <rect
@@ -2532,12 +2532,20 @@
         y="15"
         width="12"
         height="12"
-        fill="rgb(0, 38, 255)"
+        fill="rgb(0, 38, 160)"
         rx="2"
       />
 <rect
         x="675"
         y="30"
+        width="12"
+        height="12"
+        fill="rgb(0, 102, 243)"
+        rx="2"
+      />
+<rect
+        x="675"
+        y="45"
         width="12"
         height="12"
         fill="rgb(0, 102, 255)"
@@ -2545,18 +2553,10 @@
       />
 <rect
         x="675"
-        y="45"
-        width="12"
-        height="12"
-        fill="rgb(0, 102, 255)"
-        rx="2"
-      />
-<rect
-        x="675"
         y="60"
         width="12"
         height="12"
-        fill="rgb(0, 26, 38)"
+        fill="rgb(0, 26, 23)"
         rx="2"
       />
 <rect
@@ -2700,7 +2700,7 @@
         y="15"
         width="12"
         height="12"
-        fill="rgb(0, 13, 11)"
+        fill="rgb(0, 13, 7)"
         rx="2"
       />
 <rect
@@ -2708,7 +2708,7 @@
         y="30"
         width="12"
         height="12"
-        fill="rgb(0, 38, 20)"
+        fill="rgb(0, 38, 12)"
         rx="2"
       />
 <rect
@@ -2716,7 +2716,7 @@
         y="45"
         width="12"
         height="12"
-        fill="rgb(0, 51, 28)"
+        fill="rgb(0, 51, 17)"
         rx="2"
       />
 <rect
@@ -2724,7 +2724,7 @@
         y="60"
         width="12"
         height="12"
-        fill="rgb(0, 128, 12)"
+        fill="rgb(0, 128, 7)"
         rx="2"
       />
 <rect
@@ -2732,7 +2732,7 @@
         y="75"
         width="12"
         height="12"
-        fill="rgb(0, 0, 71)"
+        fill="rgb(0, 0, 43)"
         rx="2"
       />
 <rect
@@ -2740,7 +2740,7 @@
         y="90"
         width="12"
         height="12"
-        fill="rgb(0, 0, 150)"
+        fill="rgb(0, 0, 90)"
         rx="2"
       />
 <rect
@@ -2748,7 +2748,7 @@
         y="0"
         width="12"
         height="12"
-        fill="rgb(0, 140, 255)"
+        fill="rgb(0, 140, 248)"
         rx="2"
       />
 <rect
@@ -2756,7 +2756,7 @@
         y="15"
         width="12"
         height="12"
-        fill="rgb(0, 102, 170)"
+        fill="rgb(0, 102, 102)"
         rx="2"
       />
 <rect
@@ -2772,7 +2772,7 @@
         y="45"
         width="12"
         height="12"
-        fill="rgb(0, 13, 255)"
+        fill="rgb(0, 13, 154)"
         rx="2"
       />
 <rect
@@ -2788,7 +2788,7 @@
         y="75"
         width="12"
         height="12"
-        fill="rgb(0, 102, 255)"
+        fill="rgb(0, 102, 172)"
         rx="2"
       />
 <rect
@@ -2796,7 +2796,7 @@
         y="90"
         width="12"
         height="12"
-        fill="rgb(0, 255, 255)"
+        fill="rgb(0, 255, 201)"
         rx="2"
       />
 <rect
@@ -2804,7 +2804,7 @@
         y="0"
         width="12"
         height="12"
-        fill="rgb(0, 128, 82)"
+        fill="rgb(0, 128, 49)"
         rx="2"
       />
 <rect
@@ -2812,7 +2812,7 @@
         y="15"
         width="12"
         height="12"
-        fill="rgb(0, 0, 44)"
+        fill="rgb(0, 0, 26)"
         rx="2"
       />
 <rect
@@ -2820,7 +2820,7 @@
         y="30"
         width="12"
         height="12"
-        fill="rgb(0, 102, 40)"
+        fill="rgb(0, 102, 24)"
         rx="2"
       />
 <rect
@@ -2844,7 +2844,7 @@
         y="75"
         width="12"
         height="12"
-        fill="rgb(0, 0, 209)"
+        fill="rgb(0, 0, 125)"
         rx="2"
       />
 <rect
@@ -2852,7 +2852,7 @@
         y="90"
         width="12"
         height="12"
-        fill="rgb(0, 51, 115)"
+        fill="rgb(0, 51, 69)"
         rx="2"
       />
 <rect
@@ -2860,7 +2860,7 @@
         y="0"
         width="12"
         height="12"
-        fill="rgb(0, 179, 255)"
+        fill="rgb(77, 179, 180)"
         rx="2"
       />
 <rect
@@ -2868,7 +2868,7 @@
         y="15"
         width="12"
         height="12"
-        fill="rgb(0, 77, 242)"
+        fill="rgb(26, 77, 145)"
         rx="2"
       />
 <rect
@@ -2876,7 +2876,7 @@
         y="30"
         width="12"
         height="12"
-        fill="rgb(0, 0, 250)"
+        fill="rgb(51, 0, 150)"
         rx="2"
       />
 <rect
@@ -2884,7 +2884,7 @@
         y="45"
         width="12"
         height="12"
-        fill="rgb(0, 0, 164)"
+        fill="rgb(204, 0, 99)"
         rx="2"
       />
 <rect
@@ -2892,7 +2892,7 @@
         y="60"
         width="12"
         height="12"
-        fill="rgb(0, 0, 174)"
+        fill="rgb(102, 13, 129)"
         rx="2"
       />
 <rect

@@ -8,13 +8,15 @@ const GAP = 3;
 const STEP = CELL_SIZE + GAP;
 
 const ghmax = 20;
-const wtmax = 3;
+const wtmax = 5;
+const lcmax = 10;
 
 function getDayColor(day: ActivityDay): string {
   const github = Math.min((day.github ?? 0) / ghmax, 1);
   const wakatime = Math.min((day.wakatime ?? 0) / wtmax, 1);
+  const leetcode = Math.min((day.leetcode ?? 0) / lcmax, 1);
 
-  const r = 0;
+  const r = Math.round(255 * leetcode);
   const g = Math.round(255 * github);
   const b = Math.round(255 * wakatime);
 

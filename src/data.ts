@@ -2,6 +2,7 @@ import { ActivityDay } from "./types/activityDay";
 
 import * as github from "./github";
 import * as wakatime from "./wakatime";
+import * as leetcode from "./leetcode";
 
 function formatDate(date: Date): string {
   return date.toISOString().split("T")[0];
@@ -31,18 +32,21 @@ function getFixedDates(): string[] {
 }
 
 async function getMergedActivityData(): Promise<ActivityDay[]> {
-  const [githubData, wakatimeData] = await Promise.all([
+  const [githubData, wakatimeData, leetcodeData] = await Promise.all([
     github.getActivityData(github.getAuthToken()),
     wakatime.getActivityData(wakatime.getAuthToken()),
+    leetcode.getActivityData(),
   ]);
 
   const githubByDate = new Map(githubData.map((day) => [day.date, day]));
   const wakatimeByDate = new Map(wakatimeData.map((day) => [day.date, day]));
+  const leetcodeByDate = new Map(leetcodeData.map((day) => [day.date, day]));
 
   return getFixedDates().map((date) => ({
     date,
     github: githubByDate.get(date)?.github ?? 0,
     wakatime: wakatimeByDate.get(date)?.wakatime ?? 0,
+    leetcode: leetcodeByDate.get(date)?.leetcode ?? 0,
   }));
 }
 
