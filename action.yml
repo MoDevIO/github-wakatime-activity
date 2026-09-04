@@ -1,0 +1,29 @@
+name: Generate universal activity SVG
+description: Generate an activity SVG from Github, WakaTime, and LeetCode
+
+inputs:
+  github-token:
+    required: true
+  wakatime-token:
+    required: true
+  leetcode-username:
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: Install dependencies
+      shell: bash
+      working-directory: ${{ github.action_path }}
+      run: pnpm install --frozen-lockfile
+
+    - name: Generate SVG
+      shell: bash
+      working-directory: ${{ github.workspace }}
+      env:
+        GITHUB_TOKEN: ${{ inputs.github-token }}
+        WAKATIME_TOKEN: ${{ inputs.wakatime-token }}
+        LEETCODE_USERNAME: ${{ inputs.leetcode-username }}
+      run: |
+        "$GITHUB_ACTION_PATH/node_modules/.bin/tsx" \
+          "$GITHUB_ACTION_PATH/src/svg.ts"
