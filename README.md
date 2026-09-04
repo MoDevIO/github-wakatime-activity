@@ -36,12 +36,6 @@ jobs:
         with:
           version: 11
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: pnpm
-
       - name: Generate activity SVG
         uses: MoDevIO/github-wakatime-activity@main
         with:
