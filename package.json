@@ -8,5 +8,10 @@
 	},
 	"scripts": {
 		"generate": "tsx src/svg.ts"
-	}
+	},
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  }
 }

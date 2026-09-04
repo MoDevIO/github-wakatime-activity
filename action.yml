@@ -15,7 +15,7 @@ runs:
     - name: Install dependencies
       shell: bash
       working-directory: ${{ github.action_path }}
-      run: pnpm install --frozen-lockfile --allow-build=esbuild
+      run: pnpm install --frozen-lockfile
 
     - name: Generate SVG
       shell: bash
